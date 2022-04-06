@@ -19,22 +19,10 @@ a {
 
 /* UTILITY CLASSES */
 
-.remove-list-style {
-  list-style: none;
-}
-
 .center {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.ml-0 {
-    margin-left: 0;
-}
-
-.mr-0 {
-    margin-right: 0;
 }
 
 /* MEDIA QUERRIES */
